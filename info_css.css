@@ -69,6 +69,16 @@
 
 .miseimage1 img{width: 50vw; height: auto;}
 
+.image1 img{width: 20vw; height: auto;}
+
+.mise_ings{
+	display: flex;
+	margin: 0 auto;
+	//border:solid 1px #000;
+	width: 700px;
+	border-bottom: 1px solid;
+}
+
 .info{
 	font-family: YuMincho, "Yu Mincho", "Hiragino Mincho ProN", "serif";
 	width: 800px;
