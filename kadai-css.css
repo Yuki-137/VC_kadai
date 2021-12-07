@@ -70,3 +70,13 @@
     border-top: 6px double #000;
     border-bottom: 6px double #000;
 }
+
+.text_box{
+	background: #e0b080;
+}
+.text3{
+	font-size: 25px;
+	font-weight: bolder;
+	color: #ff0000;
+	text-shadow:1px 0 0 black,0 1px 0 black,-1px 0 0 black,0 -1px 0 black;
+}
