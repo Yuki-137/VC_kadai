@@ -76,6 +76,7 @@
 	margin: 0 auto;
 	//border:solid 1px #000;
 	width: calc(100%/2);
+	justify-content: center;
 }
 
 .info{
