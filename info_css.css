@@ -75,8 +75,7 @@
 	display: flex;
 	margin: 0 auto;
 	//border:solid 1px #000;
-	width: 700px;
-	border-bottom: 1px solid;
+	width: calc(100%/2);
 }
 
 .info{
